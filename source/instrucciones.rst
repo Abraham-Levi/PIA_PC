@@ -2,6 +2,7 @@ INFORMACION PIA_PC
 ===========
 
 Este proyecto ejecuta diversas tareas relacionadas con ciberseguridad:
+
 * Obtención de socket en base a un link
 * Escaneo de link con Virustotal
 * Web Scraping
