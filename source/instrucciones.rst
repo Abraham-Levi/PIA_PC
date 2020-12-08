@@ -26,5 +26,5 @@ EJEMPLOS DE EJECUCION
 -w abc123 -y correodestino@gmail.com
 
 
-.. automodule:: PIA.ValidatePath
+.. automodule:: PIA.py
    :members:
